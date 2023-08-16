@@ -1,0 +1,41 @@
+.bg-container {
+    background-image:url("https://www.eastcoastdaily.in/wp-content/uploads/2018/01/visit-kerala-1.jpg");
+    height:50vh;
+    width:50vw;
+    background-size: cover;
+}
+.heading {
+    color:rgb(3, 53, 57);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size :35px;
+    text-decoration:underline;
+    text-align:center;
+    padding-top:20px;
+}
+.paragraph {
+    color:rgb(206, 47, 156);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:25px;
+    text-align:center;
+}
+.btn-light {
+     color:rgb(244, 241, 249);
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size:smaller;
+     margin-left:30px;
+     margin-top:20px;
+     padding:10px;
+}
+.btn-dark {
+    color:rgb(63, 4, 50);
+    background-color:rgb(190, 237, 20);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+    margin-left:50px;
+    margin-top:150px;
+    padding:10px;
+    border-radius:12px;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+}

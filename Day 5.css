@@ -1,0 +1,27 @@
+.bg-container {
+    background-image:url("https://cdn.wallpapersafari.com/7/73/DV9qfJ.jpg");
+    height:50vh;
+    width:50vw;
+    background-size:cover;
+    text-align:center;
+    padding:10px
+}
+.heading {
+    color:#ffffff;
+    
+}
+.paragraph {
+    color:#ffffff;
+}
+.image {
+    height:100px;
+    width:200px;
+}
+.button {
+    color:#ffffff;
+    background-color:aquamarine;
+    border-radius:12px;
+    border-width:0px;
+    height:28px;
+    width:100px;
+}
