@@ -1,56 +1,5 @@
-.container {
-    height:50vh;
-    width:50vw;
-    display: flex;
-    flex-direction:column;
-    justify-content:center;
-    align-items:center;
-    margin:30px;
-}
-h1 {
-    margin:30px;
-}
-.counter { 
-      width:30%; 
-     display:flex;
-     justify-content:center; 
- }
-#increment-btn, #decrement-btn, #reset {
-    height:50px;
-    width:120px;
-    padding-bottom:30px;
-    padding-right:30px;
-    padding-left:30px;   
-    border-radius:10px;
-    font-size:40px;
-    background-color:rgb(20, 19, 20);
-    color:white;
-    margin:20px;
-    
-}
-#reset {
-    font-size:20px;
-    padding:10px;
-}
-#counter-value {
-    height:50px;
-    min-width:120px;
-    border-radius:10px;
-    background-color:rgb(214, 214, 16);
-    margin-top:20px;
-    font-size:30px;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-}
-hr {
-    
-    border: 2px solid black;
-    width:100vh;
-}
 
-/*  */
-  /* body {
+  body {
     background-color: #c7c8bf;
     
   }
@@ -100,4 +49,4 @@ hr {
   .tabs .active {
     background-color: #ffffff;
     color: #4d5bf9;
-  } */
+  }
